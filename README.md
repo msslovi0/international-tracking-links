@@ -13,7 +13,7 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 ## Argentina
 <dl>
 	<dt>Correo Argentino</dt>
-	<dd><tt>http://www.correoargentino.com.ar/seguimiento_envios/oidn</tt></dd>
+	<dd><tt>http://www.correoargentino.com.ar/formularios/ondi</tt></dd>
 </dl>
 
 ## Australia
