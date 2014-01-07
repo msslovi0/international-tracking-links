@@ -22,6 +22,12 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 	<dd><tt>http://auspost.com.au/track/%tracking%</tt></dd>
 </dl>
 
+## Belarus
+<dl>
+	<dt>Belpost</dt>
+	<dd><tt>http://search.belpost.by/#%tracking%</tt></dd>
+</dl>
+
 ## Brasil
 <dl>
 	<dt>Correios</dt>
