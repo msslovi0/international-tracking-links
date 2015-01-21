@@ -22,6 +22,12 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 	<dd><tt>http://auspost.com.au/track/%tracking%</tt></dd>
 </dl>
 
+## Azerbaijan
+<dl>
+	<dt>Azərpoçt</dt>
+	<dd><tt>http://www.azems.az/admin/search.php</tt></dd>
+</dl>
+
 ## Belarus
 <dl>
 	<dt>Belpost</dt>
@@ -124,6 +130,12 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 <dl>
 	<dt>Pos Malaysia</dt>
 	<dd><tt>http://www.pos.com.my/emstrack/viewdetail.asp?parcelno=%tracking%</tt></dd>
+</dl>
+
+## Macedonia
+<dl>
+	<dt>Makedonska Pošta</dt>
+	<dd><tt>http://195.26.134.46/IPSWebTracking/IPSWeb_item_events.asp?itemid=%tracking%&Submit=Submit</tt></dd>
 </dl>
 
 ## Mexico
