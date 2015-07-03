@@ -55,7 +55,7 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 ## Columbia
 <dl>
 	<dt>4-72</dt>
-	<dd><tt>http://trazabilidad.sipost.co:8080/default.aspx?Buscar=%tracking%</tt></dd>
+	<dd><tt>http://svc2.sipost.co/trazawebsip2/default.aspx?Buscar=%tracking%</tt></dd>
 </dl>
 
 ## Cyprus
