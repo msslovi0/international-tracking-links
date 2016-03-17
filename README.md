@@ -123,7 +123,7 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 ## Lithuania
 <dl>
 	<dt>Lietuvos Paštas</dt>
-	<dd><tt>http://www.post.lt/en/help/parcel-search/index?num=%tracking%</tt></dd>
+	<dd><tt>https://www.lpexpress.lt/en/psearch.html?psid=%tracking%</tt></dd>
 </dl>
 
 ## Malaysia
