@@ -195,7 +195,7 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 ## Spain
 <dl>
 	<dt>Correos</dt>
-	<dd>https://aplicacionesweb.correos.es/localizadorenvios/track.asp?accion=LocalizaUno&numero=%tracking%&expedicion=&ecorreo=&numeros=</dd>
+	<dd><tt>https://aplicacionesweb.correos.es/localizadorenvios/track.asp?accion=LocalizaUno&numero=%tracking%&expedicion&ecorreo=&numeros=</tt></dd>
 </dl>
 
 ## Taiwan
