@@ -192,6 +192,12 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 	<dd><tt>http://service.epost.go.kr/trace.RetrieveEmsTraceEngTibco.postal?POST_CODE=%tracking%&amp;ems_gubun=C</tt></dd>
 </dl>
 
+## Spain
+<dl>
+	<dt>Correos</dt>
+	<dd>https://aplicacionesweb.correos.es/localizadorenvios/track.asp?accion=LocalizaUno&numero=%tracking%&expedicion=&ecorreo=&numeros=</dd>
+</dl>
+
 ## Taiwan
 <dl>
 	<dt>Taiwan Post</dt>
