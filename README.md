@@ -8,6 +8,8 @@ If you have any changes or additions to this list I'm happy to merge your pull r
 <dl>
 	<dt>UPS</dt>
 	<dd><tt>http://wwwapps.ups.com/WebTracking/processRequest?HTMLVersion=5.0&amp;Requester=NES&amp;AgreeToTermsAndConditions=yes&amp;loc=%iso%&amp;tracknum=%tracking%</tt></dd>
+	<dt>One World Express</dt>
+	<dd><tt>https://www.oneworldexpress.co.uk/remote/main/tracking.php?tracking_number=%tracking%</tt></dd>
 </dl>
 
 ## Argentina
